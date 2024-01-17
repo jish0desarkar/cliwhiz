@@ -1,8 +1,5 @@
-#!/usr/bin/env node
-
 import { program } from 'commander'
 import select from '@inquirer/select';
-import inquirer from 'inquirer'
 import clipboard from 'clipboardy'
 import OpenAI from "openai";
 import chalk from 'chalk';
