@@ -1,6 +1,6 @@
 {
 	"name": "cliwhiz",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A command line helper tool",
 	"main": "index.js",
 	"type": "module",
