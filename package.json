@@ -5,11 +5,11 @@
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"start": "node ."
 	},
 	"bin": {
-		"cwz": "./index.js",
-		"cliwhiz": "./index.js"
+		"cliwhiz": "./index.js",
+		"cwz": "./index.js"
 	},
 	"keywords": [],
 	"author": "",

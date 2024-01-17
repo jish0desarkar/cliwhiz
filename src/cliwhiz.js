@@ -7,7 +7,7 @@ import { setupApiKeyPrompt, removeApiKeyPrompt, loadApiKey } from './helpers.js'
 
 
 program
-	.name('CmdAid')
+	.name('CliWhizs')
 	.description(chalk.cyanBright('CLI helper to generate commands'))
 	.version('1.0.1')
 
