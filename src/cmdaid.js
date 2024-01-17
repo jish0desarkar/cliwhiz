@@ -9,7 +9,7 @@ import { setupApiKeyPrompt, removeApiKeyPrompt, loadApiKey } from './helpers.js'
 program
 	.name('CmdAid')
 	.description(chalk.cyanBright('CLI helper to generate commands'))
-	.version('1.0.0')
+	.version('1.0.1')
 
 const apiKey = loadApiKey();
 
