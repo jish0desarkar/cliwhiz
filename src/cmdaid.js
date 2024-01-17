@@ -18,8 +18,8 @@ program
 	.action((queries) => {
 		if (queries.length !== 1) {
 			console.log(chalk.redBright('Invalid command'));
-			console.log(chalk.blueBright('Usage: ca "<query>"'));
-			console.log(chalk.yellowBright('Example: ca "list all docker containers with label nginx"'));
+			console.log(chalk.blueBright('Usage: cwz "<query>"'));
+			console.log(chalk.yellowBright('Example: cwz "list all docker containers with label nginx"'));
 			// Exit the process with a non-zero status code
 			process.exit(1);
 		}
