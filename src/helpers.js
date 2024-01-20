@@ -5,7 +5,7 @@ import os from 'os';
 import { join, dirname } from 'path';
 
 
-const configPath = join(os.homedir(), '.cmdaid', 'config.json');
+const configPath = join(os.homedir(), '.cliwhiz', 'config.json');
 
 const setupApiKeyPrompt = async () => {
 	const answers = await inquirer.prompt([

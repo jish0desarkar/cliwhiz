@@ -1,7 +1,9 @@
 {
 	"name": "cliwhiz",
 	"version": "1.0.5",
-	"description": "A command line helper tool",
+	"description": "An AI command line helper tool",
+	"homepage": "https://github.com/jish0desarkar/cliwhiz#readme",
+	"repository": "jish0desarkar/cliwhiz",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
@@ -11,7 +13,12 @@
 		"cliwhiz": "./index.js",
 		"cwz": "./index.js"
 	},
-	"keywords": [],
+	"keywords": [
+		"cli",
+		"cli-app",
+		"ai",
+		"command-line"
+	],
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
