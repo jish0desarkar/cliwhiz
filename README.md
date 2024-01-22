@@ -27,7 +27,7 @@ Please note `--global` flag is necessary for the tool to work in any directory.
 
 When you run the tool for the first time, it will prompt you to enter your OpenAI API key. If you already have a key, simply copy and paste it into the terminal prompt and press enter. If you don't have a key yet, visit [OpenAI's platform](https://platform.openai.com/) to generate an API key.
 
-<img src="./assets/Screenshot 2024-01-20 at 1.15.57 PM.png" alt="drawing" width="480"/>
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSqq3XFCkJxbciYzbOx6nJB-qDJZyRLuYf9JJdJQ184vFFzGR7F9DzE7T258WQF4p7ftucjFYkNN90b_8dJIFrl1g-a6w=w3840-h1896" alt="drawing" width="480"/>
 
 # Generating Commands
 
@@ -36,7 +36,7 @@ To generate a command, simply provide a natural language query as an argument:
 ```bash
 cwz "list all docker containers with label nginx"
 ```
-
+<!-- , https://drive.google.com/file/d/1pvJ3G4aIJZkk8oeB_554AutQ1ZEuuQzS/view?usp=sharing,  -->
 # Copying Commands
 
 1. CliWhiz provides a selection menu for suggested commands. Choose a command and hit enter and it will be copied to your clipboard for easy pasting. After generating a command, the tool will prompt you to select a command from a list:
@@ -44,11 +44,11 @@ cwz "list all docker containers with label nginx"
 	```bash
 	cwz "list all docker containers with label nginx"
 	```
-	<img src="./assets/Screenshot 2024-01-20 at 1.31.55 PM.png" alt="drawing" width="480"/>
+	<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSHFVBe_-PLXJcMWy6b4yraGyKt-Nq33cBaSBRQhjOUFLGuzvPDwFNmtaj8KcuqhzOsqiehydt56JfPXo6lPgKkVhNt7A=w3840-h1896" alt="drawing" width="480"/>
 
 2. In the event that multiple commands are generated, you have the option to select "Copy All" to copy all the commands separated by `&&`:
 
-	<img src="./assets/Screenshot 2024-01-20 at 1.18.33 PM.png" alt="drawing" width="480"/>
+	<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTR64fcEP4uOIAfJ4ABATKJ0Q_snBE6xVHDcTLf1VbyCSnYN9_IKWIHN3LVa6oqBTgHXcgDgFltGfbnTdHaNUeBD4Dh=w3840-h1896" alt="drawing" width="480"/>
 
 ## Examples
 
